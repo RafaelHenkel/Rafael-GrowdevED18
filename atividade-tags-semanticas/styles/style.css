@@ -1,0 +1,68 @@
+* {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #e670866e;
+  width: 100vw;
+  height: 9vh;
+}
+
+nav {
+  background-color: #c8efad;
+  width: 98vw;
+  height: 5vh;
+  position: absolute;
+  left: 1vw;
+  top: 2vh;
+}
+
+main {
+  background-color: #c9ebff65;
+  width: 100vw;
+  height: 76vh;
+  position: absolute;
+  top: 10vh;
+}
+
+div {
+  background-color: #ffdb83;
+  width: 20vw;
+  height: 45vh;
+  position: absolute;
+  top: 5vh;
+  left: 25vw;
+}
+
+aside {
+  background-color: #f8d0d6;
+  width: 25vw;
+  height: 40vh;
+  position: absolute;
+  top: 5vh;
+  left: 55vw;
+}
+
+section {
+  background-color: #03a8ff;
+  width: 85vw;
+  height: 15vh;
+  position: absolute;
+  top: 55vh;
+  left: 7vw;
+}
+
+footer {
+  background-color: #b37df491;
+  width: 100vw;
+  height: 13vh;
+  position: absolute;
+  top: 87vh;
+}
+
+#nav-footer{
+    width: 98vw;
+    height: 9vh;
+}
